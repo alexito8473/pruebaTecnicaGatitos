@@ -8,7 +8,7 @@ Recupera un hecho aleatorio de gatos de la primera API y muestra una imagen
 de un gato con la primera palabra del hecho recuperado usando la 
 segunda API
 
---Informacion para poder constuir tu projecto de 2 formas:
+-- Informacion para poder constuir tu projecto de 2 formas:
 La forma normal de crear un projecto en react, usando Vite:
 
  - npm create vite@latest (eliges react con javaScript o typescript)
