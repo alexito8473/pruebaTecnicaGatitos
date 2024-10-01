@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h1{
+    font-size: 40px;
+}
+img{
+    width: 400px;
+    height: auto;
+}
+main,h1,img{
+    margin:30px
+}
