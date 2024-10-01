@@ -42,3 +42,7 @@ La forma creando tu propio punto de entrada pero con Vite:
   }
 - Creamos la carpeta src y los archivos App.jsx y App.css
 
+Para crear test usaremos el siguiente comando:
+
+npm init playwright@latest
+
